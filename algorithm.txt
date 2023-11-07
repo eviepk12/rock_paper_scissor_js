@@ -1,0 +1,9 @@
+Algoritma Rock - Paper - Scissor :
+
+1). User input jawaban
+2). Bot memilih jawaban dengan random
+3). Jika input user dan bot sama, maka game akan Tie
+4). Jika input user rock dan bot scissor, maka user menang
+5). Jika input user scissor dan bot paper, maka user menang
+6). Jika input user paper dan bot rock, maka user menang
+7). selainnya bot menang
